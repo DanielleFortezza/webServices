@@ -1,0 +1,24 @@
+ ====================================
+ Apache XMLSchema 2.0.3 Release Notes
+ ====================================
+
+This is the release of Apache XMLSchema 2.0.3.
+
+XMLSchema is a lightweight schema object model that can be used to manipulate 
+and generate XML schema representations. It has few external dependencies
+and can be easily integrated into an existing project.
+
+You are welcome to kick the tires and get XMLSchema on the move.  Any
+contribution in the form of coding, testing, submitting improvements
+to the documentation, and reporting bugs are always welcome.
+
+This release fixes the following defect:
+
+** Bug
+    * [XMLSCHEMA-25] - Potential never ending loop when writing schemas
+
+
+Thanks for your interest in XMLSchema!
+
+- The XMLSchema Development Team (dev@ws.apache.org)
+
